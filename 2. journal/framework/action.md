@@ -1,0 +1,15 @@
+- compassion  
+- accepting  
+- [radical] forgiveness  
+- non-prove  
+- non-image  
+- confidence (will, was, am, can)  
+- restraint/non-succumbing/refraining
+- protected  
+- unafraidness  
+- unashamedness  
+- discipline  
+- non-procrastination  
+- concentration  
+- patience
+- honesty

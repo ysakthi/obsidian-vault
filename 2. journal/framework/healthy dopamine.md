@@ -1,0 +1,18 @@
+- exercise
+- sleep
+- cold showers (it really, really does by insane amounts)
+	- especially going all in straight to an icy cold blast
+	- but showers in general release dopamine
+- meditation
+- walks
+	- especially in the morning and/or in green
+- social effort
+- just getting out
+- nature
+- any engaging activity 
+- doing a *difficult* activity (figuring out, learning, creating, etc.)
+	- some options: learning a piece on piano // doing a drawing // doing a write-up on a topic (just pick *a* topic !!)
+- learning and novelty
+- getting things done that i need to get done, esp things i've procrastinated on
+- decoupling pleasures & doing unsupported
+- good sounding music

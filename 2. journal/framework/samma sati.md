@@ -1,0 +1,7 @@
+- memory (holding)
+- knowledge (thorough understanding, incl. three marks)
+- ardentness (wakefulness)
+- awareness (mindfulness)
+- action (virtue)
+- samadhi
+	- this is the basis of 8. samma samadhi

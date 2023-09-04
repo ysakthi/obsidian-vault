@@ -1,0 +1,7 @@
+- focus
+- flow (acknowledgement)
+- ease
+- dis-attachment
+- heaviness/solidity/sturdiness
+- lightness/liquidity/softness
+- mindfulness

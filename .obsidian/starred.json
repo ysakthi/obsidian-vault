@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "daily reflections",
+      "path": "2. journal/daily reflections.md"
+    },
+    {
+      "type": "file",
+      "title": "understanding capitalism",
+      "path": "5. projects/understanding capitalism.md"
+    },
+    {
+      "type": "file",
+      "title": "framework",
+      "path": "framework.canvas"
+    },
+    {
+      "type": "file",
+      "title": "next steps visioning",
+      "path": "2. journal/syntheses/career + life visioning.md"
+    },
+    {
+      "type": "file",
+      "title": "TBR",
+      "path": "4. literature/TBR.md"
+    }
+  ]
+}

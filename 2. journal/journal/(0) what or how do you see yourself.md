@@ -1,0 +1,5 @@
+- Abi "a philosopher" immediately  
+- stimmy "one cheek on a round rock and the other on the gently flowing river" or "standing in the midst of a raging river"  
+- Nat "I would be doing what I am doing now"   
+- Nit "she'd be around (creative) people! that also respect alone time / i would be making m00ves in bme / i would be also making lots of art!! and hopefully learning new things about the world"  
+- Sammie "In those days we finally chose to walk // like giants and hold the world in arms // grown strong with love // And there may be things we // forget in the days to come, // // But this will not be one of them.

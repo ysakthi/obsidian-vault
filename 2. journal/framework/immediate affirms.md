@@ -1,0 +1,7 @@
+- here-ness  
+- okay-ness/safe-ness  
+- now-ness  
+- enough-ness  
+- okay to blehing  
+- okay to "break" intentions and systems
+- okay to not think and just do

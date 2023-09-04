@@ -1,0 +1,14 @@
+- i can Be with my thoughts, even at my worsts
+- it is okay to simply avoid or weather  
+- absorptness into head is not un-okay. just might be easier to meet goals without  
+- if everything runs away . . . i am still here  
+- i am soft and steady and strong  
+- my presence is a gift
+	- related: right now, i take long times to reach out to people -- and that's okay, even if they are quick
+- i have learned that i CAN make plans to talk with people, and it goes well, and i usually need to prepare very little if at all!
+- it's not only that i will, but that i am  
+- i am capable of Being just as much sleepy as rested  
+- i will not compromise my being for others  
+- i will be my own person
+- i will not chase feeling good
+- even in the most knotted states, i can find pockets of freeness & solidity  

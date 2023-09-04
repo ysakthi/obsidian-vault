@@ -1,0 +1,402 @@
+{
+  "workspaces": {
+    "single": {
+      "main": {
+        "id": "7013fc5c607fc837",
+        "type": "split",
+        "children": [
+          {
+            "id": "8041dcbb144d61d2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "632a98abf2c4aa57",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "framework.canvas",
+                    "viewState": {
+                      "x": 332.54731952730475,
+                      "y": 222.11044610700134,
+                      "zoom": -0.18949595784498785
+                    }
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "937ea7f4c7d83358",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "pinned": true
+                }
+              },
+              {
+                "id": "cafd458a6cb42f89",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9ee445667dc8c502",
+        "type": "split",
+        "children": [
+          {
+            "id": "172aef0051a04ebb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2ed6219ff83d22b1",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "abaec82212322eba",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:gen/practices",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "7f0263ea73b63f92",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 364.5013427734375
+      },
+      "right": {
+        "id": "43775f5c0fe75818",
+        "type": "split",
+        "children": [
+          {
+            "id": "d51d4433f7b5c5c6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "193edda0ecfe9480",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "d1d1a52e148efb8e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "9b9b47feed6d38d0",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "c2fedcde0a61b7b2",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "4d7c984f2d042376",
+                "type": "leaf",
+                "state": {
+                  "type": "juggl_nodes",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ddbb5b24ce11bf6e",
+                "type": "leaf",
+                "state": {
+                  "type": "juggl_style",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "juggl:Juggl global graph": false
+        }
+      },
+      "active": "cafd458a6cb42f89"
+    },
+    "double": {
+      "main": {
+        "id": "7013fc5c607fc837",
+        "type": "split",
+        "children": [
+          {
+            "id": "8041dcbb144d61d2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "632a98abf2c4aa57",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "framework.canvas",
+                    "viewState": {
+                      "x": -596.1173731040384,
+                      "y": 1063.0523685581954,
+                      "zoom": -0.6142246005470906,
+                      "snapToGrid": true
+                    }
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "937ea7f4c7d83358",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. synthetic creations/ongoing.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "f8014b1c66b989e9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "be4ff31ea81c9f56",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0. the mu folder/(23-02-22) my brain exploding.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9ee445667dc8c502",
+        "type": "split",
+        "children": [
+          {
+            "id": "172aef0051a04ebb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2ed6219ff83d22b1",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "abaec82212322eba",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#gen/dhamma",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "7f0263ea73b63f92",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "43775f5c0fe75818",
+        "type": "split",
+        "children": [
+          {
+            "id": "d51d4433f7b5c5c6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "193edda0ecfe9480",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "0. the mu folder/(23-02-22) my brain exploding.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "d1d1a52e148efb8e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "0. the mu folder/(23-02-22) my brain exploding.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "9b9b47feed6d38d0",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "c2fedcde0a61b7b2",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "0. the mu folder/(23-02-22) my brain exploding.md"
+                  }
+                }
+              },
+              {
+                "id": "4d7c984f2d042376",
+                "type": "leaf",
+                "state": {
+                  "type": "juggl_nodes",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ddbb5b24ce11bf6e",
+                "type": "leaf",
+                "state": {
+                  "type": "juggl_style",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 235.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "juggl:Juggl global graph": false
+        }
+      },
+      "active": "be4ff31ea81c9f56"
+    }
+  },
+  "active": "single"
+}

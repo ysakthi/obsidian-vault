@@ -1,0 +1,101 @@
+[[prolegomena concepts + resources]]
+
+### v2
+%% the scope of this is smaller than that of v1: just explain the technical overview of the isomorphism%%
+- stoic
+	- bodies
+		- "material" or the granting of materiality -- "bodies provide the materiality and context through which incorporeals can actualize and manifest" -- in this way, they do not form the ground, or *substance* of reality, but the material or the house of the causal power
+	- incorporeals
+		- immanent
+		- shadow or record
+		- attribute
+	- dual causality // dual importance
+- theravada
+	- dhammas
+		- k19: dhammas are not real (do not have sabhava (k23))
+		- k23: "the dynamic world of sensory experience is not due to causes other than the self-same dhammas into which it is finally reduced. It is the inter-connection of the dhammas through causal relations that explains the variety and diversity of contingent existence and not some kind of transempirical reality which serves as their metaphysical ground."
+	- kamma
+		- cetanaham bikkhave kammam vadami -- answers the question of what makes some action kamma and some not?
+- connection
+	- actuality and presentness
+		- k29 "The kind of existence implied here is not past or future existence, but present *actual* and verifiable existence"
+		- d4: "The only time of bodies and states of affairs is the present"
+		- we get a situation of freezing-in-place; there is the *unconditioned* body, not organized into a state of affairs, which has present-temporal existence; then, we have the *timeless* bodies, organized into states of affairs, or affixed by kamma, which though frozen in place, shoot their ends towards the past and the future, creating time
+	- subsistence (j31)
+		- the surface "is not another body added to the world" (j34)
+	- materialist non-materialism (all things flattened to the material)
+		- dhammas refer to "to those items that result when the process of analysis is taken to its ultimate limits" (k12)
+		- from johnson:
+			- "thoroughgoing" materialism (27)
+			- "the Stoics embrace the paradoxical implications that follow from rendering soul, virtues and vices existent" (28)
+			- "ontological audacity" (28)
+	- interpenetration
+		- j34: "'depth' refers to the interpenetration of all bodies"
+			- all things rise or fall at once, organized
+	- multiplicity
+		- k14 and k15
+		- k33: "On the basis of this principle of positional inseparability it is maintained that there is no quantitative difference (pamāṇato) among the material elements that enter into the composition of material objects. The difference is only qualitative. And this qualitative difference is based on what is called ussada, i.e. intensity or extrusion."
+	- dual-mode & dual-causality: "\[e\]ffects express corporeal causes but are, at the same time, irreducible to the causal network" (j53)
+		- there is generative power in both -- and both of different orders
+			- j63: the two orders cannot resemble each other; dual genetic power -- "that which conditions -- the incorporeals -- is distinct from the conditioned -- bodies -- yet still contributes to their material existence"
+		- k16,17: the conditioner is not separate from the conditioned
+		- and, in a weird way, the bodies condition (i.e. provides context for) their conditioners -- paradox !!
+			- k24,25: "dhammas might be quasi-substances. This additional definition states that a dhamma is not that which bears its own-nature, but that which is borne by its own conditions"
+			- j59 "A quasi-cause is paradoxical: it is a non-causal cause"
+		- static genesis + leaping
+			- there is a sort of non-participatory genesis (the dynamic, from unconditioned to conditioner), then leaping (from conditioner to conditioned)
+				- yields us my picture of the kamma-instances
+			- j64: "This is an early instance, perhaps the first in the history of Western philosophy, of static genesis"
+	- ethical 
+- the main point: what deleuze/bergson/stoics are really trying to capture is intention!!
+- implications & moving forward
+	- imbuing deleuze-bergson-stoic picture with *intention*
+	- fate + free will
+		- people usually think of kamma as fate
+
+### v1
+- introduction
+	- stoic + buddhist ontologies are shockingly isomorphic
+	- much scholarship on stoic-buddhist connection
+		- not surprising
+		- name sources & connections that have been made
+	- but this is on ethics, therapy, psychology, and mental effort, NOT ontology
+	- not surprising: considering similarities (similar ethics, and if similar ethics come from similar metaphysics...), shouldn't the ontologies be similar?
+	- some work on zen - even gd himself. but not theravada
+	- and in general: ppl don't talk about stoic ontology
+		- like this dude in his blog [Buddhism, Epicureanism, And Stoicism | Science 2.0 (science20.com)](https://www.science20.com/rationally_speaking/buddhism_epicureanism_and_stoicism-103952) (why do people think they can be "unconvinced" by something they studied for a few hours? aren't they aware they're probably missing a *lot*?)
+			- "I am inclined to reject both Buddhism’s and Stoicism’s metaphysics, being significantly more happy with the Epicurean view of the world. I don’t think there is any reason to think that concepts like _logos_ or _karma_ have any philosophical substance, nor do they do any work in actually explaining why things are the way they are. The Epicurean embracing of a materialist metaphysics, instead, is in synch with the development of natural philosophy and eventually of modern science."
+				- ugh
+- thesis
+- implications
+- questions
+	- from a bodies-first point of view:
+		- how do we get from What Is to All This? (shakes hands and looks around while saying "All This")
+		- how can we act?
+			- \[for self\] is this a sub-question of the previous?
+	- from a Being point of view:
+		- what is the material/substratum/substance of All This?
+	- does this dichotomy make sense? i seem to be prioritizing the fated and secondizing the incorporeal -- but with immanence, they are both priority; the creative (potential to intend & act) is on same level as the determined
+- deleuzian stoic ontology
+	- exposition on bodies + incorporeals
+- theravadin buddhist ontology
+	- clarifiers
+		- what most ppl consider buddhist ontology is anatta, paticcasamuppada, anicca, etc.
+		- elements ("elements" used in a significative way: the substantive elements *in* the ontology, not just *of*) of the buddhist ontology: sense-bases, aggregates, dhammas, kamma (cetana), nibbana
+			- other concepts: citta, dukkha, 4 noble truths -- granted a sort of ontological status
+	- exposition
+		- dhammas
+			- dhammas are not a self-substance; they are dependent (hence, not ultimate)
+				- though some abhidhamma texts do treat them as ultimate
+					- this isn't important
+				- karunadasa 14: dhammas do not form a plurality
+				- karunadasa 15: they are neither plurality nor unity
+		- kamma
+			- cetanaham bikkhave kammam vadami
+- the connection
+	- karunadasa 19: "This means, in effect, that the dhammas represent the final limits of the Abhidhammic analysis of empirical existence" -- in the way that bodies do (a final materiality)
+- intention-theory
+- apatheia/ataraxia and nibbana
+- where to move forward with a degree/fellowship/etc
+
+Last modified: `=this.file.mday`

@@ -1,0 +1,9 @@
+- friends & family
+- communities
+- land & place
+- livelihood
+- conduct & action
+- health
+- cultivation
+- contentment & personal joy
+- upkeep of self + space

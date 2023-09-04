@@ -1,0 +1,4 @@
+- preparing for meetings with people
+- understanding texts
+- money
+- health

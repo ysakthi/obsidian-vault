@@ -1,0 +1,12 @@
+ask these not only when things are low, but when things are fine! this is *practice*
+- what are the stories i'm telling myself ?  
+- [[what are the current unpleasantnesses]]?  
+- [[what are the (faint) affects]]?  
+- [[what am i holding at arm's length, avoiding, or running away from]]?
+- what am i using as a blocker or an excuse?  
+- [[what do i need or want rn|what do i need and/or want right now]]?
+- what can i let go right now?  
+- [[established people|who are people i can do things for]]?
+- what would i be doing if i wasn't beholden to amma and appa? or others?
+- [[what is important to me]]?
+- what are the consequences of my actions? what actions' consequences am i living now (i.e. what is my condition)?

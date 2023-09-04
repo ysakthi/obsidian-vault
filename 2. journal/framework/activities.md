@@ -1,0 +1,30 @@
+- sketching  
+- poetry  
+- reading
+- audiobooks
+- cooking  
+- drumming  
+- embroidery  
+- events (esp social)  
+- live music  
+- basslines  
+- volunteering  
+- nature walks & sits  
+- listen to music  
+- tamil
+- piano  
+- walk
+- read/listen to dhamma  
+- body  
+- people
+- outflux  
+- catch up unreads  
+- do nothing  
+- past (incl synthesis) / future
+- think
+- open, beautiful, complex, alive
+- do things
+- relational
+	- letters
+	- thoughtful gifts or acts of service
+	- spend time

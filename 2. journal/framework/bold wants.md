@@ -1,0 +1,23 @@
+- reading a lot  
+- learn to write  
+- go to sl/thailand, translate -- or work with tamil buddhists in general  
+- fluency in tamil, fluency in pali, fluency in spanish
+- education
+- travel, adventure -- leave cleveland
+- body -- ready for all the things
+- become proficient in an instrument (piano, drums, mrithangam)
+- dance, theater, improv
+- achieve functional proficiency w/ drawing
+- massive creative outflux -- unafraid of the dhamma
+- full, constant mindfulness
+- current strong relationships (sj, akash, ant, nit, anna)
+- meet all the people
+- be social, do cool tings w cool ppl  
+- engaged collaborative intellectual alive convos  
+- kiss my friends  
+- make money
+- forming/joining/contributing to community
+- start the space
+- radical involvement/service -- full on revolution
+- develop deep relationship with ecology & the land
+- deep involvement w/ indigenous 'america'

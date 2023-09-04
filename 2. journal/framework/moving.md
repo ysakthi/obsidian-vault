@@ -1,0 +1,16 @@
+- let conflict flow, sequester others
+- relax  
+- breath  
+- contact  
+- posture  
+- senses  
+- move SOME part of body
+- [[immediate affirms]]
+- action  
+- entrance  
+- find mindful activity  
+- *do the thing*  
+- recall  
+	- dhamma/buddha  
+	- pleasant things  
+	- unpleasant realities

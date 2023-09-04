@@ -1,0 +1,16 @@
+- sit  
+- breathe (return)  
+- concentration (breath +)  
+- walk  
+- meditate on action  
+- endurance/discipline  
+- dhamma  
+- reflection, guiding concepts, frame, reorient  
+- lay  
+- do nothing
+- meditative activity  
+- zazen (posture/externalize)
+- open/dogs/objectless
+- it is what it is
+- non-generating
+- motions & waves -- swell and flow

@@ -1,0 +1,311 @@
+{
+  "main": {
+    "id": "7013fc5c607fc837",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f0f1f54fa5f29b9",
+        "type": "tabs",
+        "dimension": 60.08505467800729,
+        "children": [
+          {
+            "id": "662f65f1de8e2276",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. mu project/syntheses/prolegomena concepts + resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "db84100365562cfd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. mu project/notes/(23-05-19) stoicism + buddhism planning.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "61e3185245b29bb3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. mu project/notes/(23-06-08) transcription-ish of voice memo on stoicism + buddhism.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b073bacec2d93253",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. mu project/syntheses/prolegomena outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "edd5bce2537ba7e8",
+        "type": "tabs",
+        "dimension": 39.91494532199271,
+        "children": [
+          {
+            "id": "bee6183866d5c526",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. literature/books/the logic of sense.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b78c350f3a20609f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "framework.canvas",
+                "viewState": {
+                  "x": 4879.648143712574,
+                  "y": 1070,
+                  "zoom": -2.9664982564084865
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ee445667dc8c502",
+    "type": "split",
+    "children": [
+      {
+        "id": "172aef0051a04ebb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ed6219ff83d22b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "f322c203c2177f85",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "abaec82212322eba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#interaction-notes",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 391.5047149658203
+  },
+  "right": {
+    "id": "43775f5c0fe75818",
+    "type": "split",
+    "children": [
+      {
+        "id": "d51d4433f7b5c5c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "193edda0ecfe9480",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. mu project/syntheses/prolegomena concepts + resources.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf4138fb907abc94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. obsidian stuff/tags/tags.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2fedcde0a61b7b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. mu project/syntheses/prolegomena concepts + resources.md"
+              }
+            }
+          },
+          {
+            "id": "d1d1a52e148efb8e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. mu project/syntheses/prolegomena concepts + resources.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9b9b47feed6d38d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f8a70a4601c88800",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "327b9e7bdeb40d73",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "662f65f1de8e2276",
+  "lastOpenFiles": [
+    "1. mu project/notes/(23-06-11) how incorporeals can be of their own order.md",
+    "1. mu project/syntheses/prolegomena concepts + resources.md",
+    "1. mu project/notes/(23-06-08) transcription-ish of voice memo on stoicism + buddhism.md",
+    "framework.canvas",
+    "4. literature/books/the logic of sense.md",
+    "1. mu project/notes/(23-03-10) intention vs action.md",
+    "1. mu project/notes/(23-03-06) a revelation about sankhara.md",
+    "1. mu project/syntheses/prolegomena outline.md",
+    "3. sketchbook/Untitled.md",
+    "6. obsidian stuff/tags/tags.md",
+    "2. journal/journal/(21-01-01) second semester planning.md",
+    "2. journal/daily + weekly yesses.md",
+    "1. mu project/notes/(23-05-19) stoicism + buddhism planning.md",
+    "1. mu project/syntheses/stoicism + buddhism.md",
+    "3. sketchbook/(22-02-12) some bars.md",
+    "4. literature/shortform/suttas/salayatana vibhanga sutta.md",
+    "4. literature/TBR.md",
+    "4. literature/books/deleuze, a stoic.md",
+    "1. mu project/notes/(23-03-30) coffee chat w prof hengehold.md",
+    "1. mu project/notes/(23-05-14) what a Whole education could look like.md",
+    "4. literature/poems",
+    "4. literature/Untitled.md",
+    "4. literature/shortform/suttas/rhinoceros sutta.md",
+    "4. literature/shortform/suttas/lonaphala sutta (the salt crystal).md",
+    "4. literature/shortform/suttas/migajaalena sutta (dwelling alone).md",
+    "4. literature/shortform/suttas/mahasatipatthana sutta.md",
+    "4. literature/shortform/suttas/olendzki - interconnected...or not.md",
+    "6. obsidian stuff/attachments/lonaphala sutta.pdf",
+    "6. obsidian stuff/attachments/upaddha sutta.pdf",
+    "6. obsidian stuff/attachments/rhinoceros sutta.pdf",
+    "6. obsidian stuff/attachments/migajaalena sutta.pdf",
+    "6. obsidian stuff/attachments/maha-nidana sutta.pdf",
+    "6. obsidian stuff/attachments/olendzki - interconnected or not.pdf",
+    "6. obsidian stuff/attachments/janapadakalyani sutta.pdf",
+    "6. obsidian stuff/attachments/sedaka sutta.pdf",
+    "6. obsidian stuff/attachments/vedana in satipatthana.pdf",
+    "6. obsidian stuff/attachments/Pasted image 20230329134021.png",
+    "6. obsidian stuff/attachments/Pasted image 20230329133442.png",
+    "6. obsidian stuff/attachments/Pasted image 20230329133314.png",
+    "6. obsidian stuff/attachments/20230329_133053.jpg",
+    "6. obsidian stuff/attachments/Pasted image 20230324164159.png",
+    "6. obsidian stuff/attachments/Pasted image 20230324163929.png",
+    "6. obsidian stuff/attachments/Pasted image 20230227170440.jpg",
+    "6. obsidian stuff/attachments/Pasted image 20230227170342.jpg",
+    "6. obsidian stuff/attachments/Pasted image 20230227170330.jpg",
+    "6. obsidian stuff/attachments/Pasted image 20230227170228.jpg"
+  ]
+}

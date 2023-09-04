@@ -1,0 +1,6 @@
+- we eat every day and dress every day. how do we escape this?
+	- you eat, and you dress.
+	- i don't understand.
+	- if you don't understand, go put on your clothes and grab your bowl.
+- if you are hungry, eat. if you are tired, sleep.
+- walk on
